@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+<quiz>
+  <question>
+    <number>Q1</number>
+    <ques> In which creative art is Sonal Mansingh distinguished?</ques>
+    <option1>Dance</option1>
+    <option2>Vocal music (Hindustani)</option2>
+    <option3>Painting</option3>
+    <option4>Instrumental music</option4>
+  </question>
+  <question>
+    <number>Q2</number>
+    <ques>Which of the following is a ‘classical’ dance form? </ques>
+    <option1>Kalaripayattu</option1>
+    <option2>Chhobia</option2>
+    <option3>Bhawai</option3>
+    <option4>Kathakali</option4>
+  </question>
+  <question>
+    <number>Q3</number>
+    <ques>Which among the following is a martial dance? </ques>
+    <option1>Kathakali</option1>
+    <option2>Bamboo dance in Meghalaya</option2>
+    <option3>Chhau of Mayurbhanj</option3>
+    <option4>Bhangra of Punjab</option4>
+  </question>
+    <question>
+    <number>Q4</number>
+    <ques> Koodiyattam is a </ques>
+    <option1>traditional dance of Kerala</option1>
+    <option2>special food prepared in Tamilnadu</option2>
+    <option3>boat race of Kerala</option3>
+    <option4>dress worn in Karnataka</option4>
+  </question>
+    <question>
+    <number>Q5</number>
+    <ques>With which of the following dances Raja Reddy is associated with? </ques>
+    <option1>Bharatnatyam</option1>
+    <option2>Kuchipudi</option2>
+    <option3>Odissi</option3>
+    <option4>Kathakali</option4>
+  </question>
+    <question>
+    <number>Q6</number>
+    <ques>Which from the following is a "Classical" dance form? </ques>
+    <option1>Bhangra</option1>
+    <option2>Bharatanatyam</option2>
+    <option3>Chhau</option3>
+    <option4>Wangala</option4>
+  </question>
+    <question>
+    <number>Q7</number>
+    <ques>Which of the following is a folk dance of Rajasthan?</ques>
+    <option1>Garba</option1>
+    <option2>Dandiya</option2>
+    <option3>Jhumar</option3>
+    <option4>Kathak</option4>
+  </question>
+</quiz>
